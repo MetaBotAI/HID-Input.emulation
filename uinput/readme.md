@@ -4,7 +4,9 @@
 
 # Doc:
 - https://docs.kernel.org/input/uinput.html
-- 
+
+# Guide:
+- http://web.archive.org/web/20170609022027/http://thiemonge.org:80/getting-started-with-uinput
 
 # Answer:
 - https://stackoverflow.com/questions/57992400/uinput-emulate-lwin-s-under-wayland-weston

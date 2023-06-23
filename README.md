@@ -1,2 +1,5 @@
 # Input.emulation
-use boards like a Raspberry Pi Zero, Nano to emulate USB input!
+https://www.google.com/search?q=wayland+weston+fake+mouse+events
+
+## KDE
+- https://wayland.app/protocols/kde-fake-input
